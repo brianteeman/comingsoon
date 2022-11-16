@@ -10,4 +10,4 @@ While you are developing your web site this plugin will hide the site behind a C
 - No external libraries
 
 #### Joomla 3 - Haraka
-A version of this plugin [Haraka](https://raw.githubusercontent.com/brianteeman/haraka) was available for Joomla 3. This is no longer maintained but still works on a Joomla 3.x site.
+A version of this plugin [Haraka](https://github.com/brianteeman/haraka) was available for Joomla 3. This is no longer maintained but still works on a Joomla 3.x site.
