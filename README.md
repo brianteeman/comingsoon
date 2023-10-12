@@ -1,5 +1,5 @@
 # Coming Soon
-## Joomla 4 System Plugin
+## Joomla System Plugin
 ![CLEAN (2)](https://user-images.githubusercontent.com/1296369/202232592-b52cca50-5797-461c-9095-d95bbae37400.png)
 
 
@@ -10,7 +10,7 @@ While you are developing your web site this plugin will hide the site behind a C
 [Link](https://github.com/brianteeman/comingsoon/archive/refs/tags/1.0.0.zip)
 
 ### Requirements
-- Joomla 4.x
+- Joomla 4.x or Joomla 5.x
 - Any template
 - No external libraries
 
