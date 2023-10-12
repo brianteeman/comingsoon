@@ -188,6 +188,6 @@
 		</fields>
 	</config>
 	<updateservers>
-		<server type="extension" priority="1" name="Coming Soon Update Site">https://raw.githubusercontent.com/brianteeman/comingsoon/master/manifest.xml</server>
+		<server type="extension" priority="1" name="Coming Soon Update Site">https://raw.githubusercontent.com/brianteeman/comingsoon/main/manifest.xml</server>
 	</updateservers>
 </extension>
