@@ -7,7 +7,7 @@
 While you are developing your web site this plugin will hide the site behind a Coming Soon Page. You can customise the text, select the background image and Google font pair giving you a combination of over 100 styles. An optional countdown clock and social media links can also be displayed. Additionally you can give a secret word, or whitelist one or more IP addresses, to allow access to the site while it is under development.
 
 ### Download
-[Link](https://github.com/brianteeman/comingsoon/archive/refs/tags/1.0.0.zip)
+[Link](https://github.com/brianteeman/comingsoon/releases)
 
 ### Requirements
 - Joomla 4.x or Joomla 5.x
