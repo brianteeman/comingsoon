@@ -96,6 +96,7 @@
 					label="PLG_SYSTEM_COMINGSOON_CFG_COUNTDOWN_DATE"
 					description="PLG_SYSTEM_COMINGSOON_CFG_COUNTDOWN_DATE_DESC"
 					format="%Y-%m-%d %H:%M:%S"
+					filterformat="Y-m-d H:i:s"
 					showtime="true"
 					showon="countdown:1"
 				/>
